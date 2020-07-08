@@ -1,0 +1,2 @@
+2019-10-14 16:30:41,987 [main] DEBUG userRole=ADMIN logback.level.UserLevel - Logging base on user role : ADMIN
+2019-10-14 16:32:09,597 [main] DEBUG userRole=ADMIN logback.level.UserLevel - Logging base on user role : ADMIN

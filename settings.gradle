@@ -1,0 +1,26 @@
+rootProject.name = 'Learn'
+include 'db-mongodb',
+        'design-codechallenge',
+        'design-custom',
+        'design-tvchannel',
+        'hazelcast',
+        'hibernate',
+        'monad',
+        'stack-overflow',
+        'threads-basic',
+        'utils-continues-dates',
+        'utils-logback',
+        'utils-pdf'
+
+project(':db-mongodb').projectDir = new File(settingsDir, 'db/mongodb')
+project(':design-codechallenge').projectDir = new File(settingsDir, 'design/codechallenge')
+project(':design-custom').projectDir = new File(settingsDir, 'design/custom')
+project(':design-tvchannel').projectDir = new File(settingsDir, 'design/tvchannel')
+project(':hazelcast').projectDir = new File(settingsDir, 'hazelcast')
+project(':monad').projectDir = new File(settingsDir, 'monad')
+project(':hibernate').projectDir = new File(settingsDir, 'hibernate')
+project(':stack-overflow').projectDir = new File(settingsDir, 'stack-overflow')
+project(':threads-basic').projectDir = new File(settingsDir, 'threads/basic')
+project(':utils-continues-dates').projectDir = new File(settingsDir, 'utils/continues-dates')
+project(':utils-logback').projectDir = new File(settingsDir, 'utils/logback')
+project(':utils-pdf').projectDir = new File(settingsDir, 'utils/pdf')

@@ -1,0 +1,24 @@
+plugins {
+    id 'java'
+    id 'application'
+}
+
+repositories {
+    jcenter()
+    flatDir {
+        dirs 'libs'
+    }
+}
+
+
+dependencies {
+    implementation 'com.google.guava:guava:27.0.1-jre'
+    compile name: 'ojdbc8'
+    testImplementation 'org.testng:testng:6.14.3'
+}
+
+mainClassName = 'src.App'
+
+test {
+    useTestNG()
+}

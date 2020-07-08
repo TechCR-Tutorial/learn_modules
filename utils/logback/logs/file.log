@@ -1,0 +1,24 @@
+2019-10-14 16:30:41,999 [main] DEBUG logback.level2.HtmlLogger - HTML Message
+2019-10-14 16:30:42,000 [main] INFO  logback.level2.HtmlLogger - HTML2 Message
+2019-10-14 16:30:48,008 [main] INFO  logback.LogBackLogger - Test Rescan html2
+2019-10-14 16:30:54,012 [main] INFO  logback.LogBackLogger - Test Rescan html2
+2019-10-14 16:31:00,013 [main] INFO  logback.LogBackLogger - Test Rescan html2
+2019-10-14 16:31:06,018 [main] INFO  logback.LogBackLogger - Test Rescan html2
+2019-10-14 16:31:12,020 [main] INFO  logback.LogBackLogger - Test Rescan html2
+2019-10-14 16:31:18,021 [main] INFO  logback.LogBackLogger - Test Rescan html2
+2019-10-14 16:31:24,022 [main] INFO  logback.LogBackLogger - Test Rescan html2
+2019-10-14 16:31:30,026 [main] INFO  logback.LogBackLogger - Test Rescan html2
+2019-10-14 16:31:36,030 [main] INFO  logback.LogBackLogger - Test Rescan html2
+2019-10-14 16:31:42,035 [main] INFO  logback.LogBackLogger - Test Rescan html2
+2019-10-14 16:32:09,607 [main] DEBUG logback.level2.HtmlLogger - HTML Message
+2019-10-14 16:32:09,609 [main] INFO  logback.level2.HtmlLogger - HTML2 Message
+2019-10-14 16:32:15,614 [main] INFO  logback.LogBackLogger - Test Rescan html2
+2019-10-14 16:32:21,617 [main] INFO  logback.LogBackLogger - Test Rescan html2
+2019-10-14 16:32:27,619 [main] INFO  logback.LogBackLogger - Test Rescan html2
+2019-10-14 16:32:33,622 [main] INFO  logback.LogBackLogger - Test Rescan html2
+2019-10-14 16:32:39,626 [main] INFO  logback.LogBackLogger - Test Rescan html2
+2019-10-14 16:32:45,627 [main] INFO  logback.LogBackLogger - Test Rescan html2
+2019-10-14 16:32:51,628 [main] INFO  logback.LogBackLogger - Test Rescan html2
+2019-10-14 16:32:57,631 [main] INFO  logback.LogBackLogger - Test Rescan html2
+2019-10-14 16:33:03,634 [main] INFO  logback.LogBackLogger - Test Rescan html2
+2019-10-14 16:33:09,636 [main] INFO  logback.LogBackLogger - Test Rescan html2

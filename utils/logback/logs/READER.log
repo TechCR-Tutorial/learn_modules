@@ -1,0 +1,2 @@
+2019-10-14 16:30:41,997 [main] DEBUG userRole=READER logback.level.UserLevel - Logging base on user role : READER
+2019-10-14 16:32:09,603 [main] DEBUG userRole=READER logback.level.UserLevel - Logging base on user role : READER
