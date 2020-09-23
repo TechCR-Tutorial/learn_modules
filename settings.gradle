@@ -3,28 +3,36 @@ include 'db-mongodb',
         'design-codechallenge',
         'design-custom',
         'design-tvchannel',
+        'frameworks-cglib',
+        'frameworks-osgi',
         'hazelcast',
         'hibernate',
         'monad',
         'stack-overflow',
         'threads-basic',
+        'utils-code-learning',
         'utils-continues-dates',
         'utils-java',
         'utils-logback',
         'utils-pdf',
+        'utils-performance',
         'utils-proxy'
 
 project(':db-mongodb').projectDir = new File(settingsDir, 'db/mongodb')
 project(':design-codechallenge').projectDir = new File(settingsDir, 'design/codechallenge')
 project(':design-custom').projectDir = new File(settingsDir, 'design/custom')
 project(':design-tvchannel').projectDir = new File(settingsDir, 'design/tvchannel')
+project(':frameworks-cglib').projectDir = new File(settingsDir, 'frameworks/cglib')
+project(':frameworks-osgi').projectDir = new File(settingsDir, 'frameworks/osgi')
 project(':hazelcast').projectDir = new File(settingsDir, 'hazelcast')
 project(':monad').projectDir = new File(settingsDir, 'monad')
 project(':hibernate').projectDir = new File(settingsDir, 'hibernate')
 project(':stack-overflow').projectDir = new File(settingsDir, 'stack-overflow')
 project(':threads-basic').projectDir = new File(settingsDir, 'threads/basic')
+project(':utils-code-learning').projectDir = new File(settingsDir, 'utils/code-learning')
 project(':utils-continues-dates').projectDir = new File(settingsDir, 'utils/continues-dates')
 project(':utils-java').projectDir = new File(settingsDir, 'utils/java')
 project(':utils-logback').projectDir = new File(settingsDir, 'utils/logback')
 project(':utils-pdf').projectDir = new File(settingsDir, 'utils/pdf')
+project(':utils-performance').projectDir = new File(settingsDir, 'utils/performance')
 project(':utils-proxy').projectDir = new File(settingsDir, 'utils/proxy')

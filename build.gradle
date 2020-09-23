@@ -3,6 +3,10 @@ plugins {
     id 'application'
 }
 
+subprojects {
+    group 'learn-modules'
+}
+
 repositories {
     jcenter()
     flatDir {
