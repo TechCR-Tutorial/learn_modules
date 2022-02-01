@@ -11,8 +11,8 @@ repositories {
 }
 
 dependencies {
-    compile group: 'org.hibernate', name: 'hibernate-entitymanager', version: '5.3.7.Final'
-    compile group: 'com.oracle', name: 'ojdbc8', version: '12.1.0.2'
+    compileOnly group: 'org.hibernate', name: 'hibernate-entitymanager', version: '5.3.7.Final'
+    compileOnly group: 'com.oracle', name: 'ojdbc8', version: '12.1.0.2'
 
     testImplementation 'org.testng:testng:6.14.3'
 }
